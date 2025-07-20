@@ -1,0 +1,9 @@
+1. clasificacion_clientes_revenue
+	normal     159516
+	gold        19941
+	platino     19940
+2 rech
+	1    196624
+	0      2773
+3 0.1 0.15
+4 10
